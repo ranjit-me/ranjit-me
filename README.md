@@ -14,10 +14,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjitbichukale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
+
 
 ---
 
