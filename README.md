@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ranjit-me/ranjit-me/main/banner.png" alt="Profile Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ranjit Bichukale</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://illustrations.popsy.co/gray/work-from-home.svg" width="300" alt="Developer Illustration"/>
+  <img src="https://illustrations.popsy.co/gray/developer-working.svg" width="320" alt="Developer Illustration"/>
 </p>
 
 ---
@@ -14,10 +10,10 @@
 ## 🚀 About Me
 
 - 👀 Interested in **Web Development, Software Engineering & Open Source**
-- 🌱 Currently learning **Java Full Stack Development & DSA**
-- 💞️ Looking to collaborate on **real-world projects & startups**
+- 🌱 Currently learning **Java Full Stack Development & Data Structures & Algorithms**
+- 💞️ Looking to collaborate on **real-world projects & innovative ideas**
 - 📫 Reach me at **ranjitbichukale@gmail.com**
-- ⚡ Fun fact: *I enjoy solving coding problems & hackathons*
+- ⚡ Fun fact: *I love solving challenging problems and hackathons*
 
 ---
 
@@ -25,13 +21,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ranjitbichukale/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ranjitbichukale@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ranjit-me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
