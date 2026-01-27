@@ -3,9 +3,9 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    width="120"
-    alt="Developer Icon"
+    src="https://raw.githubusercontent.com/ranjit-me/ranjit-me/main/developer-boy.png"
+    width="280"
+    alt="Software Developer Illustration"
   />
 </p>
 
