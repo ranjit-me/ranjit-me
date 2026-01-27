@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ranjit Bichukale</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/undrawco/undraw/master/illustrations/undraw_software_engineer_re_ii8e.svg"
-    width="300"
-    alt="Software Developer Illustration"
-  />
-</p>
-
----
+<img
+  src="https://i.pinimg.com/1200x/35/e9/97/35e997b6231fb58edc7039f44c03261d.jpg"
+  alt="Developer Illustration"
+  width="300"
+  align="right"
+/>
 
 ## 🚀 About Me
 
 - 👀 Interested in **Web Development, Software Engineering & Open Source**
-- 🌱 Currently learning **Java Full Stack Development & DSA**
+- 🌱 Currently learning **Java Full Stack Development & Data Structures & Algorithms**
 - 💞️ Looking to collaborate on **real-world projects**
 - 📫 Reach me at **ranjitbichukale@gmail.com**
 - ⚡ Fun fact: *I enjoy coding challenges and hackathons*
+
+<br clear="right"/>
 
 ---
 
