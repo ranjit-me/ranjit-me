@@ -2,7 +2,11 @@
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://illustrations.popsy.co/gray/developer-working.svg" width="320" alt="Developer Illustration"/>
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    width="120"
+    alt="Developer Icon"
+  />
 </p>
 
 ---
@@ -10,10 +14,10 @@
 ## 🚀 About Me
 
 - 👀 Interested in **Web Development, Software Engineering & Open Source**
-- 🌱 Currently learning **Java Full Stack Development & Data Structures & Algorithms**
-- 💞️ Looking to collaborate on **real-world projects & innovative ideas**
+- 🌱 Currently learning **Java Full Stack Development & DSA**
+- 💞️ Looking to collaborate on **real-world projects**
 - 📫 Reach me at **ranjitbichukale@gmail.com**
-- ⚡ Fun fact: *I love solving challenging problems and hackathons*
+- ⚡ Fun fact: *I enjoy coding challenges and hackathons*
 
 ---
 
@@ -38,7 +42,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,cs,html,css,react,nextjs,nodejs" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,tailwind,threejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,tailwind,threejs" />
 </p>
 
 ---
@@ -46,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-me&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-me&show_icons=true" />
 </p>
 
 <p align="center">
@@ -55,14 +59,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjit-me&theme=flat&margin-w=15" />
-</p>
-
----
-
-<p align="center">
-  ✨ Thank you for visiting my profile! Let’s build something amazing together 🚀
+  ✨ Thank you for visiting my profile! Let’s build something amazing 🚀
 </p>
