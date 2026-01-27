@@ -3,8 +3,8 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/ranjit-me/ranjit-me/main/developer-boy.png"
-    width="280"
+    src="https://raw.githubusercontent.com/undrawco/undraw/master/illustrations/undraw_software_engineer_re_ii8e.svg"
+    width="300"
     alt="Software Developer Illustration"
   />
 </p>
