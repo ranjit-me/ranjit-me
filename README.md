@@ -32,9 +32,6 @@
   <a href="https://github.com/ranjit-me" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/ranjitme/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
 </p>
 
 ---
@@ -49,14 +46,18 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjit-me&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-me&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-me&layout=compact" />
 </p>
 
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile! Let’s build something amazing 🚀
-</p>
+  ✨ Thank you for visiting my profile! Let’s build something amazing 🚀
+</p>. here remove github states and add achivements and in connect with me add leetcode url
