@@ -49,16 +49,14 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
-- ✅ Solved **300+ DSA problems** on LeetCode & other platforms  
-- 🚀 Built multiple **full-stack projects** using Java, React & Next.js  
-- 🧠 Strong foundation in **Data Structures, Algorithms & OOP**  
-- 🏅 Participated in **coding contests, hackathons & technical events**  
-- 🌱 Actively contributing to **personal & open-source projects**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjit-me&theme=flat&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
 <p align="center">
-  ✨ Thank you for visiting my profile! Let’s build something amazing 🚀
+  ✨ Thanks for visiting my profile! Let’s build something amazing 🚀
 </p>
