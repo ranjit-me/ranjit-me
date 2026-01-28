@@ -32,6 +32,9 @@
   <a href="https://github.com/ranjit-me" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/ranjitme/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -46,15 +49,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-me&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-me&layout=compact" />
-</p>
+- ✅ Solved **300+ DSA problems** on LeetCode & other platforms  
+- 🚀 Built multiple **full-stack projects** using Java, React & Next.js  
+- 🧠 Strong foundation in **Data Structures, Algorithms & OOP**  
+- 🏅 Participated in **coding contests, hackathons & technical events**  
+- 🌱 Actively contributing to **personal & open-source projects**
 
 ---
 
